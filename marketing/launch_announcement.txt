@@ -1,0 +1,11 @@
+Title: Launching: Freelance Portfolio Builder Pack
+
+
+Body: I built a lightweight, rebrandable portfolio template for freelancers — no code, no CMS, just simple HTML & Tailwind. It includes a branded landing page, project pages, copy templates, and a setup guide. Perfect for designers, developers, and writers who want to go live fast.
+
+
+Launch offer: $49 (normally $99) for the first 25 buyers.
+
+
+Demo: [link-to-demo]
+Purchase: [link-to-gumroad]

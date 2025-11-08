@@ -1,0 +1,11 @@
+Short (for hero): I build clean, conversion-focused websites for startups and creators.
+
+
+Long (for about page): I'm YourName — a freelance web developer and UI/UX designer. I specialize in building fast, accessible websites and conversion-first landing pages. I work closely with founders and creators to craft product-led designs that convert visitors into users.
+
+
+Quick bullets (services):
+- Landing pages & microsites
+- Website redesigns
+- UI/UX design
+- Design systems & prototypes

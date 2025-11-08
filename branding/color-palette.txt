@@ -1,0 +1,4 @@
+Primary: #2563EB (blue)
+Accent: #06B6D4 (teal)
+Neutral: #111827 (dark)
+Background: #F9FAFB (light)

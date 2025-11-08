@@ -1,0 +1,4 @@
+Heading: Inter, 700
+Body: Inter, 400
+Fallback: system-ui, -apple-system, 'Segoe UI', Roboto
+Google Fonts: https://fonts.google.com/specimen/Inter
