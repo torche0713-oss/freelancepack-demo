@@ -1,22 +1,28 @@
-# Setup Guide — Freelance Portfolio Builder Pack
+# FreelancePack Demo
 
+🚀 **Live Demo:** [https://freelancepack-demo.vercel.app](https://freelancepack-demo.vercel.app)
 
-Freelance Portfolio Builder Pack — Readme
+A simple, frontend-only freelance portfolio builder pack — perfect for designers, developers, and creators.  
+No backend. No CMS. 100% deployable to Vercel or GitHub Pages.
 
+---
 
-Files included:
-- template/: HTML/CSS/JS site (replace placeholders)
-- branding/: logo & palette
-- copy/: text for pages & services
-- marketing/: social posts & launch text
-- guide/: setup instructions
+### 🧰 Features
+- Clean TailwindCSS UI
+- Responsive layout (mobile-first)
+- About, Projects, and Contact pages
+- LocalStorage contact form (no backend)
+- Ready for customization and resale
 
+---
 
-How to use:
-1) Personalize the copy and images.
-2) Replace the logo and colors.
-3) Host on Vercel/GitHub Pages.
-4) Upload the zipped folder to Gumroad and sell.
+### 🚀 Deploy Your Own
+1. Fork this repo  
+2. Edit `/template` pages to personalize your info  
+3. Connect your fork to Vercel (one click deploy)
 
+---
 
-Need custom branding or a white-label version? Offer it as an upsell.
+### 🧠 Credits
+Built by **YourName** — 2025  
+Starter Pack: *Freelance Portfolio Builder Pack*
